@@ -1,0 +1,17 @@
+{
+    "name": "Curriculum Jaime Aguilar Navarro",
+    "short_name": "Curriculum JaimeAN",
+    "theme_color": "#ffe08a",
+    "background_color": "#ffe08a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
